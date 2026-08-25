@@ -1,1 +1,2 @@
-# addison.github.io
+# Haunted Virginia
+This website is about the hauntings of and in Virginia. The target audience would be towards people of any age interested in learning state history. Visitors will be able to access different categories of hauntings and cities within the state to learn about their home towns more in depth. They will also be able to see peoples haunted stories on a chat group where people from all over Virginia can share their stories and locations. 
